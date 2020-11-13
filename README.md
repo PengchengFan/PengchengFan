@@ -5,9 +5,14 @@
   - systems engineering for machine learning applications
 
 - 🔭 I’m currently working on 
-  - project [AI-UI](https://www.ai4uandi.com), a software that helps peoploe to complete machine learning tasks without coding. 
+  - project [AI-UI](https://www.ai4uandi.com), a software that helps peoploe to complete machine learning tasks without coding
 
 - 📫 Contact me by emailing: (pengcheng.fan [AT] outlook.com)
+
+- 🍳 Skills:
+  - Python, Javascript, C
+  - software engineering, design patterns, web development
+  - Chinese, English, German
 
 <!--
 **PengchengFan/PengchengFan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
