@@ -5,7 +5,7 @@
   - systems engineering for machine learning applications
 
 - 🔭 I’m currently working on 
-  - project [AI-UI](https://www.ai4uandi.com), a software that helps peoploe to complete machine learning tasks without coding
+  - project [AI-UI](https://www.ai4uandi.com), a software that helps peoploe to complete machine learning tasks without coding. I'm involved in front-/backend development as well as integrating cutting-edge AI models.
 
 - 📫 Contact me by emailing: (pengcheng.fan [AT] outlook.com)
 
