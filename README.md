@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Pengcheng Fan (范鹏程) 👋
+
+- 🌱 I’m a master student at Technology University of Ilmenau, currently learning fields:
+  - reinforcement learning for controlling, image segmentation for quality check
+  - systems engineering for machine learning applications
+
+- 🔭 I’m currently working on 
+  - project [AI-UI](https://www.ai4uandi.com), a software that helps peoploe to complete machine learning tasks without coding. 
+
+- 📫 Contact me by emailing: (pengcheng.fan [AT] outlook.com)
 
 <!--
 **PengchengFan/PengchengFan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
